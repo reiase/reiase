@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details align="center">
 <img height="30" src="https://img.shields.io/badge/reiase' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=reiase&logoColor=blue" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reiase&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=नमस्ते Programmers! 👏&layout=compact" alt="reiase"/></p>
-</details>
 
 
 <details align="center">
