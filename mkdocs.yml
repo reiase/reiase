@@ -1,5 +1,5 @@
 site_name: "Overfiting" # Change this to your site name
-site_description: "Reiase's blog"
+site_description: "Reiase's Blog"
 site_url: https://reiase.github.io # Change this to your site URL
 site_author: "reiase <reiase@gmail.com>"
 
@@ -11,7 +11,7 @@ theme:
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: "cn"
+    language: zh
     palette:
 
     # Light mode
@@ -84,7 +84,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: $language
+      locale: zh
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -124,10 +124,10 @@ extra_css:
     - assets/css/customization.css
 extra:
   SEO: assets/meta/SEO.png
-  comments: $comments #disable comments globally
-  generate_graph: $generate_graph #generate the graph of the site
+  comments: false #disable comments globally
+  generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
-  no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
+  no-auto-h1: true #disable the automatic generation of h1 if no h1 is found
   blog_list:
     pagination: true #enable pagination
     pagination_message: true #display the message "Showing x posts out of y"
